@@ -11,11 +11,9 @@
           <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
           <small>{{ site.tagline }}</small>
         </h3>
-        <ul class="nav">
-        {% for item in site.pages reversed %}
-          <li class="nav_item {% if item.url == page.url %}active{% endif %}"><a class="nav_link" href="{{ item.url }}">{{ item.title }}</a></li>
+        {% for item in site.data.nav reversed %}
+          <a class="{% if item.url == page.url %}font-weight-bold{% endif %}" href="{{ item.url }}">{{ item.title }}</a>
         {% endfor %}
-        </ul>
       </header>
 
       <main>
