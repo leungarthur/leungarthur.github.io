@@ -1,8 +1,6 @@
 ---
 title: About
 layout: page
-permalink: /about/
-published: true
 ---
 
 <img src="/assets/portrait.jpg" alt="Portrait of Arthur" style="max-width: 250px"/>
