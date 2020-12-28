@@ -1,29 +1,44 @@
 ---
-layout: page
 title: About
+layout: post
+permalink: /about/
+published: true
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+<img src="/assets/images/portrait.jpg" alt="Portrait of Arthur" style="max-width: 250px"/>
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Hi, I'm Arthur Leung, a 4th year undergrad at the [Dept of Biology][biology] at [Western][western]. I plan on pursuing graduate studies in plant biology.
 
-There are currently two themes built on Poole:
+[biology]: https://www.uwo.ca/biology/
+[western]: https://www.uwo.ca/
 
-- [Hyde](https://hyde.getpoole.com)
-- [Lanyon](https://lanyon.getpoole.com)
+# Research
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+For grad school, I'm looking to pursue topics pertaining to photosynthesis, global change biology and/or high throughput methods.
 
-## Setup
+At [the Hüner lab][huner] (Fall 2019–present), I'm involved in an experiment conducted at the [Biotron Experimental Climate Change Research Centre][biotron] examining the effects of climate change on physiology of boreal trees.
 
-Some fun facts about the setup of this project include:
+I received the [NSERC Undergraduate Student Research Award][usra] for Summer 2020!
 
-- Built for [Jekyll](https://jekyllrb.com)
-- Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-- Coded with [Atom](https://atom.io), an amazing open source code editor
+I'm currently doing a project on energy partitioning and photoprotection in photosynthesis in five boreal tree species.
+- Analyzed chlorophyll fluorescence data. Interesting differences between species!
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+[huner]: https://www.uwo.ca/biology/directory/faculty/huner.html
+[biotron]: https://www.uwo.ca/sci/research/biotron/
+[usra]: https://www.nserc-crsng.gc.ca/students-etudiants/ug-pc/usra-brpc_eng.asp
 
-Thanks for reading!
+# Skills
+
+- High-performance liquid chromatography (HPLC) for pigment quantification.
+- SDS-PAGE and immunoblotting.
+- Pulse‐amplitude modulated (PAM) chlorophyll fluorescence measurements.
+- Basic programming for statistical analyses (R, Python) and web design (HTML, CSS)
+
+# Education
+
+**BSc, Honors Specialization in Biology**<br>
+[Western University][western], Summer 2021 (expected)
+
+# Contact
+
+[aleun88@uwo.ca](mailto:aleun88@uwo.ca)
