@@ -11,7 +11,8 @@
           <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
           <small>{{ site.tagline }}</small>
         </h3>
-        <ul class="nav">
+        <br>
+        <ul class="nav" style="text-align: right;">
         {% for item in site.data.nav.navpages %}
           <a href="{{ item.url }}">{{ item.title }}</a>
         {% endfor %}
