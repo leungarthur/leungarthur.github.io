@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-<img src="/assets/images/portrait.jpg" alt="Portrait of Arthur" style="max-width: 250px"/>
+<img src="/assets/portrait.jpg" alt="Portrait of Arthur" style="max-width: 250px"/>
 
 Hi, I'm Arthur Leung, a 4th year undergrad at the [Dept of Biology][biology] at [Western][western]. I plan on pursuing graduate studies in plant biology.
 
