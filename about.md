@@ -12,7 +12,7 @@ Hi, I'm Arthur Leung, a 4th year undergrad at the [Dept of Biology][biology] at 
 [biology]: https://www.uwo.ca/biology/
 [western]: https://www.uwo.ca/
 
-# Research
+## Research
 
 For grad school, I'm looking to pursue topics pertaining to photosynthesis, global change biology and/or high throughput methods.
 
@@ -27,18 +27,18 @@ I'm currently doing a project on energy partitioning and photoprotection in phot
 [biotron]: https://www.uwo.ca/sci/research/biotron/
 [usra]: https://www.nserc-crsng.gc.ca/students-etudiants/ug-pc/usra-brpc_eng.asp
 
-# Skills
+## Skills
 
 - High-performance liquid chromatography (HPLC) for pigment quantification.
 - SDS-PAGE and immunoblotting.
 - Pulse‐amplitude modulated (PAM) chlorophyll fluorescence measurements.
 - Basic programming for statistical analyses (R, Python) and web design (HTML, CSS)
 
-# Education
+## Education
 
 **BSc, Honors Specialization in Biology**<br>
 [Western University][western], Summer 2021 (expected)
 
-# Contact
+## Contact
 
 [aleun88@uwo.ca](mailto:aleun88@uwo.ca)
