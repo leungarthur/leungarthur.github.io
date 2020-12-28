@@ -12,11 +12,9 @@
           <small>{{ site.tagline }}</small>
         </h3>
         <br>
-        <ul class="nav" style="text-align: right;">
         {% for item in site.data.nav.navpages %}
-          <a href="{{ item.url }}">{{ item.title }}</a>
+          <a href="{{ item.url }}" style="text-align: right; padding-left: 10px;">{{ item.title }}</a>
         {% endfor %}
-        </ul>
       </header>
 
       <main>
