@@ -12,7 +12,7 @@
           <small>{{ site.tagline }}</small>
         </h3>
         <ul class="nav">
-        {% for item in site.data.nav.navpages reversed %}
+        {% for item in site.data.nav.navpages %}
           <a href="{{ item.url }}">{{ item.title }}</a>
         {% endfor %}
         </ul>
