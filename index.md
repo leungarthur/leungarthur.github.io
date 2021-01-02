@@ -20,7 +20,7 @@ For grad school, I'm looking to pursue topics pertaining to photosynthesis, glob
 
 At [the Hüner lab][huner] (Fall 2019–present), I'm involved in an experiment conducted at the [Biotron Experimental Climate Change Research Centre][biotron] examining the effects of climate change on physiology of boreal trees.
 
-- I received the [NSERC Undergraduate Student Research Award][usra] (with [Canadian Forest Sector Workforce Diversity supplement][cfs-supp]) for Summer 2020!
+- I received the [NSERC Undergraduate Student Research Award][usra] (as well as one of 30 [Canadian Forest Sector Workforce Diversity supplements][cfs-supp]) for Summer 2020!
 - I'm currently (Fall 2020–present) doing a thesis project on energy partitioning and photoprotection in photosynthesis in five boreal tree species.
 
 [huner]: https://www.uwo.ca/biology/directory/faculty/huner.html
