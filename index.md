@@ -39,4 +39,5 @@ I'm currently doing a project on energy partitioning and photoprotection in phot
 
 ## Contact
 
-[aleun88@uwo.ca](mailto:aleun88@uwo.ca)
+- Email: [aleun88@uwo.ca](mailto:aleun88@uwo.ca)
+- Twitter: [@leungbio](https://twitter.com/leungbio)
