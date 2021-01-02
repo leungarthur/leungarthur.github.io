@@ -3,12 +3,13 @@ title: Home
 layout: page
 ---
 
-{% include image.html url="/assets/portrait.jpg" description="Picture of myself (2019) enjoying a bagel at <a href="https://www.stviateurbagel.com/">St-Viateur Bagel Shop</a>, Montreal, Canada." %}
-
 Hi, I'm Arthur Leung, a 4th year undergrad at the [Dept of Biology][biology] at [the University of Western Ontario][western] (Western University). I plan on pursuing graduate studies in plant biology.
 
 [biology]: https://www.uwo.ca/biology/
 [western]: https://www.uwo.ca/
+
+![](/assets/portrait.jpg){style="max-width: 250px"}
+*Picture of myself (2019) enjoying a bagel at [https://www.stviateurbagel.com/](St-Viateur Bagel Shop), Montreal, Canada.*
 
 ## Research
 
