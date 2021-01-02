@@ -5,7 +5,7 @@ layout: page
 
 <img src="/assets/portrait.jpg" alt="Portrait of Arthur" style="max-width: 250px"/>
 
-Hi, I'm Arthur Leung, a 4th year undergrad at the [Dept of Biology][biology] at [Western][western]. I plan on pursuing graduate studies in plant biology.
+Hi, I'm Arthur Leung, a 4th year undergrad at the [Dept of Biology][biology] at [the University of Western Ontario][western] (Western University). I plan on pursuing graduate studies in plant biology.
 
 [biology]: https://www.uwo.ca/biology/
 [western]: https://www.uwo.ca/
@@ -14,12 +14,12 @@ Hi, I'm Arthur Leung, a 4th year undergrad at the [Dept of Biology][biology] at 
 
 For grad school, I'm looking to pursue topics pertaining to photosynthesis, global change biology and/or high throughput methods.
 
+### Undergraduate Research
+
 At [the Hüner lab][huner] (Fall 2019–present), I'm involved in an experiment conducted at the [Biotron Experimental Climate Change Research Centre][biotron] examining the effects of climate change on physiology of boreal trees.
 
-I received the [NSERC Undergraduate Student Research Award][usra] for Summer 2020!
-
-I'm currently doing a project on energy partitioning and photoprotection in photosynthesis in five boreal tree species.
-- Analyzed chlorophyll fluorescence data. Interesting differences between species!
+- I received the [NSERC Undergraduate Student Research Award][usra] for Summer 2020!
+- I'm currently doing a thesis project on energy partitioning and photoprotection in photosynthesis in five boreal tree species.
 
 [huner]: https://www.uwo.ca/biology/directory/faculty/huner.html
 [biotron]: https://www.uwo.ca/sci/research/biotron/
@@ -34,8 +34,7 @@ I'm currently doing a project on energy partitioning and photoprotection in phot
 
 ## Education
 
-**BSc, Honors Specialization in Biology**<br>
-[Western University][western], Summer 2021 (expected)
+- **BSc, Honors Specialization in Biology**<br>[Western University][western], Summer 2021 (expected)
 
 ## Contact
 
