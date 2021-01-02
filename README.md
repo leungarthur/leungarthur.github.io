@@ -1,1 +1,3 @@
-Personal website of Arthur Leung. Reach me at <aleun88@uwo.ca>.
+Personal website of Arthur Leung. 
+- Email: [aleun88@uwo.ca](mailto:aleun88@uwo.ca)
+- Twitter: [@leungbio](https://twitter.com/leungbio)
