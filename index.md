@@ -9,7 +9,7 @@ Hi, I'm Arthur Leung, a 4th year undergrad at the [Dept of Biology][biology] at 
 [western]: https://www.uwo.ca/
 
 ![](/assets/portrait.jpg){: style="max-width: 250px"}
-*Picture of myself (2019) enjoying a bagel at [https://www.stviateurbagel.com/](St-Viateur Bagel Shop), Montreal, Canada.*
+*Picture of myself (2019) enjoying a bagel at [St-Viateur Bagel Shop](https://www.stviateurbagel.com/), Montreal, Canada.*
 
 ## Research
 
