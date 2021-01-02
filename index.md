@@ -3,7 +3,7 @@ title: Home
 layout: page
 ---
 
-| <img src="/assets/portrait.jpg" style="max-width: 250px"/> |
+| <img src="/assets/portrait.jpg" style="margin-left: auto; margin-right: auto; max-width: 250px"/> |
 |:---:|
 | <small>Picture of myself (2019) enjoying a bagel at [St-Viateur Bagel Shop](https://www.stviateurbagel.com/), Montreal, Canada.</small> |
 
