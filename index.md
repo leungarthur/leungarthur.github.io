@@ -3,7 +3,7 @@ title: Home
 layout: page
 ---
 
-Hi, I'm Arthur Leung, a 4th year undergrad at the [Dept of Biology][biology] at [the University of Western Ontario][western] (Western University). I plan on pursuing graduate studies in plant biology.
+Hi, I'm Arthur Leung, a 4th year undergrad at the [Dept of Biology][biology] at [the University of Western Ontario][western] (Western University). I plan on pursuing plant biology in grad school!
 
 [biology]: https://www.uwo.ca/biology/
 [western]: https://www.uwo.ca/
