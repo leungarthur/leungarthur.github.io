@@ -19,7 +19,7 @@ For grad school, I'm looking to pursue topics pertaining to photosynthesis, glob
 
 At [the Hüner lab][huner] (Fall 2019–present), I'm involved in an experiment conducted at the [Biotron Experimental Climate Change Research Centre][biotron] examining the effects of climate change on physiology of boreal trees. I'm currently (Fall 2020–present) doing a thesis project on photosynthetic energy partitioning and photoprotection in five boreal tree species.
 
-Thank you to [NSERC USRA][usra] (as well as the [Canadian Forest Sector Workforce Diversity supplements program][cfs-supp]) for funding my summer research in 2020!
+Thank you to [NSERC USRA][usra] (as well as [Canadian Forest Sector Workforce Diversity supplements][cfs-supp]) for funding my summer research in 2020!
  
 [huner]: https://www.uwo.ca/biology/directory/faculty/huner.html
 [biotron]: https://www.uwo.ca/sci/research/biotron/
@@ -35,7 +35,7 @@ Thank you to [NSERC USRA][usra] (as well as the [Canadian Forest Sector Workforc
 
 ## Education
 
-- **BSc, Honors Specialization in Biology**<br>[Western University][western], Summer 2021 (expected)
+**BSc, Honors Specialization in Biology**<br>Western University, Summer 2021 (expected)
 
 ## Contact
 
