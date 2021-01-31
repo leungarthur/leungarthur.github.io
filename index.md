@@ -33,7 +33,7 @@ Thank you to [NSERC USRA][usra] (as well as [Canadian Forest Sector Workforce Di
 - High-performance liquid chromatography (HPLC) for pigment quantification.
 - SDS-PAGE and immunoblotting.
 - Pulse‐amplitude modulated (PAM) chlorophyll fluorescence measurements.
-- Basic programming for statistical analyses (R, Python) and web design (HTML, CSS)
+- Basic programming for the command line (bash), statistical analyses (R, Python), and web design (HTML, CSS)
 
 ## Education
 
