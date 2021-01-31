@@ -11,7 +11,7 @@ In my spare time, I like cooking, listening to R&B and soul music, and learning 
 [western]: https://www.uwo.ca/
 
 ![](/assets/portrait.jpg){: style="max-width: 250px"}
-*Picture of myself (2019) enjoying a bagel at [St-Viateur Bagel Shop](https://www.stviateurbagel.com/), Montreal, Canada.*
+*Picture of myself (2019, pre-COVID-19) enjoying a bagel at [St-Viateur Bagel Shop](https://www.stviateurbagel.com/), Montreal, Canada.*
 
 ## Research
 
