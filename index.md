@@ -3,9 +3,11 @@ title: Home
 layout: page
 ---
 
-Hi, I'm Arthur Leung, a 4th year undergrad at the [Dept of Biology][biology] at [the University of Western Ontario][western] (Western University). I plan on pursuing plant biology in grad school!
+Hi, I'm Arthur. Welcome to my website! Born in Ottawa, Canada and raised in Hong Kong, I'm currently back in Canada and finishing up a BSc in [Biology][biodept] at [the University of Western Ontario][western] (Western University). After graduating in Summer 2021, I plan on pursuing my interest in plant biology in grad school.
 
-[biology]: https://www.uwo.ca/biology/
+In my spare time, I like cooking, listening to R&B and soul music, and learning new songs to play on my Stratocaster-style guitar.
+
+[biodept]: https://www.uwo.ca/biology/
 [western]: https://www.uwo.ca/
 
 ![](/assets/portrait.jpg){: style="max-width: 250px"}
@@ -19,7 +21,7 @@ For grad school, I'm looking to pursue topics pertaining to photosynthesis, glob
 
 At [the Hüner lab][huner] (Fall 2019–present), I'm involved in an experiment conducted at the [Biotron Experimental Climate Change Research Centre][biotron] examining the effects of climate change on physiology of boreal trees. I'm currently (Fall 2020–present) doing a thesis project on photosynthetic energy partitioning and photoprotection in five boreal tree species.
 
-Thank you to [NSERC USRA][usra] (as well as [Canadian Forest Sector Workforce Diversity supplements][cfs-supp]) for funding my summer research in 2020!
+Thank you to [NSERC USRA][usra] (as well as [Canadian Forest Sector Workforce Diversity supplements][cfs-supp]) for funding my research in Summer 2020!
  
 [huner]: https://www.uwo.ca/biology/directory/faculty/huner.html
 [biotron]: https://www.uwo.ca/sci/research/biotron/
