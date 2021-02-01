@@ -2,5 +2,7 @@ navpages:
 
 - title: Home
   url: /
+- title: research
+  url: /research/
 - title: Blog
   url: /blog/
