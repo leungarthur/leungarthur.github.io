@@ -9,9 +9,9 @@ I suggest using [Jekyll](https://jekyllrb.com/) ([here's a guide for macOS users
 
 A domain is pretty affordable on various "retailers" like [Google](https://domains.google/) and [GoDaddy](https://godaddy.com/). My domain costs $17 CAD (~$13.3 USD) per year to maintain and is the only cost to my website.  
 
-Interesting comment from u/YourWelcomeOrMine from Reddit on why it's good to have a personal website:
+Interesting comment from u/zmjones from Reddit in response to another commenter that said to "let your work speak for itself":
 
-<a class="embedly-card" href="https://www.reddit.com/r/academia/comments/3lm9v2/questions_about_choosing_a_personal_domain_and/cv7hjl4">Card</a>
+<a class="embedly-card" href="https://www.reddit.com/r/AskAcademia/comments/6gnuuh/grad_student_should_i_get_a_personal_website/dirpw6o">Card</a>
 <script async src="//embed.redditmedia.com/widgets/platform.js" charset="UTF-8"></script>
 
-By the way, this website was made using Jekyll and is hosted on GitHub Pages. I'm not an expert by any means, but feel free to contact me if you need help with getting your website running! :) 
+By the way, this website was made using Jekyll and is hosted on GitHub Pages. I'm not an expert by any means, but feel free to contact me if you need help with getting your website running! :)
