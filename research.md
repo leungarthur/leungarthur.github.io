@@ -3,7 +3,10 @@ title: Research
 layout: page
 ---
 
-For grad school, I'm looking to pursue topics pertaining to photosynthesis, global change biology and/or high throughput methods.
+## Research Interests
+- ☀️ Photosynthesis
+- 🌱 Plant physiology and evolution
+- 🖥️ Bioinformatics
 
 ## Undergraduate Research
 
@@ -21,4 +24,4 @@ Thank you to [NSERC USRA][usra] (as well as [Canadian Forest Sector Workforce Di
 - High-performance liquid chromatography (HPLC) for pigment quantification.
 - SDS-PAGE and immunoblotting.
 - Pulse‐amplitude modulated (PAM) chlorophyll fluorescence measurements.
-- Basic programming for the command line (bash), statistical analyses (R, Python), and web design (HTML, CSS)
+- Basic programming for statistical analyses (R, Python), operation of command line interfaces (bash), and web design (HTML, CSS)
