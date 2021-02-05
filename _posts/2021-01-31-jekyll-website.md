@@ -12,4 +12,4 @@ Interesting comment from u/zmjones from Reddit in response to another commenter 
 <a class="embedly-card" href="https://www.reddit.com/r/AskAcademia/comments/6gnuuh/grad_student_should_i_get_a_personal_website/dirpw6o">Card</a>
 <script async src="//embed.redditmedia.com/widgets/platform.js" charset="UTF-8"></script>
 
-By the way, this website was made using Jekyll and is hosted on GitHub Pages.  I'm not an expert by any means, but feel free to contact me! :)
+By the way, this website was made using Jekyll and is hosted on GitHub Pages. I'm not an expert by any means, but feel free to contact me! :)
