@@ -5,7 +5,7 @@ layout: page
 
 Hi, I'm Arthur 👋. 
 
-I'm a 4th year undergraduate student working towards a Bachelor of Science (Honors) in [Biology][biodept] program at [the University of Western Ontario][western] (Western University). I'm working on an honours thesis investigating the physiology of photosynthesis and photoprotection in boreal tree species. After graduating in Summer 2021, I plan on pursuing my interest in plant biology in grad school.
+I'm a 4th year undergraduate student working towards a Bachelor of Science (Honors) in [Biology][biodept] at [the University of Western Ontario][western] (Western University). I'm working on an honours thesis investigating the physiology of photosynthesis and photoprotection in boreal tree species. After graduating in Summer 2021, I plan on pursuing my interest in plant biology in grad school.
 
 [biodept]: https://www.uwo.ca/biology/
 [western]: https://www.uwo.ca/
