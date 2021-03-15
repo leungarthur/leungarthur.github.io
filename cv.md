@@ -3,23 +3,23 @@ layout: page
 title: Curriculum Vitae - Arthur Leung
 ---
 
-> Department of Biology
-> Western University, London, Canada
-> 1151 Richmond Street
-> London, Ontario, Canada, N6A 3K7
+> Department of Biology<br>
+> Western University, London, Canada<br>
+> 1151 Richmond Street<br>
+> London, Ontario, Canada, N6A 3K7<br>
 
 ## Education
 
 **Western University**, 2017–2021 (expected)
 
-> BSc, Honors Specialization in Biology
+> BSc, Honors Specialization in Biology<br>
 > Thesis: Photoprotective responses of boreal trees to warming and elevated CO2
 
 ## Research Experience
 
 **Undergraduate Research Assistant, Western University, London ON**, 2019–present
 
-> Department of Biology
+> Department of Biology<br>
 > Supervisor: Norman P. A. Hüner
 >
 > - Experienced plant physiology techniques: SDS-PAGE/immunoblotting, HPLC, and PAM fluorometry
