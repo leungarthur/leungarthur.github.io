@@ -1,3 +1,8 @@
+---
+layout: page
+title: CV
+---
+
 # Arthur Leung
 
 > Department of Biology
