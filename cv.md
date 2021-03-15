@@ -1,9 +1,7 @@
 ---
 layout: page
-title: CV
+title: Curriculum Vitae - Arthur Leung
 ---
-
-# Arthur Leung
 
 > Department of Biology
 > Western University, London, Canada
