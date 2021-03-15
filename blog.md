@@ -4,7 +4,7 @@ title: Blog
 ---
 
 {% if site.posts.size == 0 %}
-I haven't posted anything here (yet)!
+Nothing here (yet)!
 {% endif %}
 
 {% assign postsByYearMonth = site.posts | group_by_exp: "post", "post.date | date: '%B %Y'" %}
