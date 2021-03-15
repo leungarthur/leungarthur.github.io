@@ -13,7 +13,7 @@ I'm a 4th year undergraduate student working towards a Bachelor of Science (Hono
 ## Research Interests
 
 - ☀️ Photosynthesis
-- 🌱 Plant physiology and evolution
+- 🌱 Physiology and evolution of photoautotrophs
 - 🖥️ Bioinformatics
 
 ## Contact
@@ -24,7 +24,7 @@ I'm a 4th year undergraduate student working towards a Bachelor of Science (Hono
 
 ## About
 
-In my spare time, I like cooking, listening to R&B/soul music, and learning new songs to play on my Stratocaster-style guitar. 
+In my spare time, I like cooking, listening to R&B/soul music (e.g. [PJ Morton's rendition of How Deep Is Your Love by the Bee Gees](https://www.youtube.com/watch?v=Sv8yRzstTDE), and learning new songs to play on my Stratocaster-style guitar. 
 
 ![](/assets/portrait.jpg){: style="max-width: 250px"}
 *Picture of myself (2019, pre-COVID-19) enjoying a bagel at [St-Viateur Bagel Shop](https://www.stviateurbagel.com/), Montréal, Canada.*
