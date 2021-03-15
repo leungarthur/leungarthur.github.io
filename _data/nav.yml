@@ -2,7 +2,7 @@ navpages:
 
 - title: Home
   url: /
-- title: Research
-  url: /research/
+- title: CV
+  url: /cv/
 - title: Blog
   url: /blog/
